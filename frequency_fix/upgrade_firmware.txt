@@ -1,0 +1,4 @@
+1. Connect the reader to PC.
+2. Open a web browser, and input the reader’s IP address.
+3. You should see the login UI. The default: username: root; password: impinj
+4. You should see an “update” button. Select the attached firmware to upgrade the reader.
